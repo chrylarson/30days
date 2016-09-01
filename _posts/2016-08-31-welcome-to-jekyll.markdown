@@ -1,25 +1,34 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Day 0"
 date:   2016-08-31 21:44:20 -0500
-categories: jekyll update
+categories: 30days running
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+The 80/20 rule is BS. True success comes from the full 100 or not at all. I’ve been living at 80 my whole life. I’m doing well, but my full potential is waiting for me.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+The extra 20 is going to take 80% the effort to achieve. That’s okay. That’s just how this works.
 
-Jekyll also offers powerful support for code snippets:
+The world is full of 20 percenters. That’s really what they are. They only put in 20% effort but expect 100% of the results. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+Plan. Plan. Then plan some more. 
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Every obstacle can be planned for. This isn’t new. I’m not the first. The successful people have left me a map. But I have only been reading 80% of the map. I ignore the troublesome 20%. I tell myself I’m doing well. Saving my energy. Only doing 80% is good enough. 
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Not true. 80% is not good enough. 
+
+They don’t hand out finisher jerseys to people who complete 80% of a marathon.
+
+This is life. It is all or nothing.
+
+September is my Birthday month. This year I’m doing something special that I have not done before. I’m going to time travel and give a birthday gift to my future 40 year old self.
+
+Yep. Time travel.
+
+I’m going to give my 40 year old self a happier, healthier life. For the entire month of September I’m going to run 5 kilometers every single day. 
+
+Every. Single. Day. 
+I’m going to run 5 kilometers.
+
+The best time to plant a tree is 20 years ago. The best time to plant healthy habits is also 20 years ago. My 40 year old self is going to swing in a hammock drinking a mai tai and reading a good book under the tree I’m planting today.
+
+This all lines up with an even more special achievement on October 9th. This is a long shot, but if my 30 days of running go smooth then I will run my first marathon.
