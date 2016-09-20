@@ -12,4 +12,4 @@ Today’s motivation comes from my work team’s quote board. We have a giant li
 > The one who wins the race in the long run is usually not the strongest or the fastest, but the one who has tried the hardest.
 >
 
-![alt text](/img/day2.jpg "Day 2 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day2.jpg "Day 2 - Snapped a screenshot at 5km")

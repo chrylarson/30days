@@ -11,4 +11,4 @@ Day 7
 > A real runner is out there for himself, and no one else. If it was about conflict, about proving superiority, you wouldn’t see them alone on the track at 4am, or on the streets in the pouring rain.
 > -- <cite>Ryan Holiday</cite>
 
-![alt text](/img/day7.jpg "Day 7 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day7.jpg "Day 7 - Snapped a screenshot at 5km")

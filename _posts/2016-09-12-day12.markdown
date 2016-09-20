@@ -10,4 +10,4 @@ Day 12
 
 A wonderful run around Lady Bird Lake in Austin, TX. First time running on a loose gravel surface. The extra balance required made the run more fun.
 
-![alt text](/img/day12.jpg "Day 12 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day12.jpg "Day 12 - Snapped a screenshot at 5km")

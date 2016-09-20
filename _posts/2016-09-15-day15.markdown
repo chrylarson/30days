@@ -10,4 +10,4 @@ Day 15
 
 Read the first chapter of “What I Talk About When I Talk About Running” by Haruki Murakami. The discipline of running is much bigger than I first envisioned. After 15 days of running I’m starting to see that I know nothing.
 
-![alt text](/img/day15.jpg "Day 15 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day15.jpg "Day 15 - Snapped a screenshot at 5km")

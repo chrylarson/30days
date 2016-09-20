@@ -10,4 +10,4 @@ Day 11
 
 Amazing weather again, this time running with my youngest in the stroller, what another great run!
 
-![alt text](/img/day11.jpg "Day 11 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day11.jpg "Day 11 - Snapped a screenshot at 5km")

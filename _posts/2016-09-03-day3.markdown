@@ -13,4 +13,4 @@ Family.
 I took my boys in the stroller along for this run. I'm going to be the fittest dad. 
 
 
-![alt text](/img/day3.jpg "Day 3 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day3.jpg "Day 3 - Snapped a screenshot at 5km")

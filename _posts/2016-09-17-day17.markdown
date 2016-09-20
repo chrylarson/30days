@@ -10,4 +10,4 @@ Day 17
 
 Both boys came along in the stroller today. They love the outdoors. 
 
-![alt text](/img/day17.jpg "Day 17 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day17.jpg "Day 17 - Snapped a screenshot at 5km")

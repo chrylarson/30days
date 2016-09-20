@@ -14,4 +14,4 @@ Cool and partly cloudy.
 
 Also, made good time.
 
-![alt text](/img/day19.jpg "Day 19 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day19.jpg "Day 19 - Snapped a screenshot at 5km")

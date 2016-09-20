@@ -10,4 +10,4 @@ Day 14
 
 Refreshing start to my day! It was tough to motivate myself to get going, but once I was on the trail my body woke up and ran.
 
-![alt text](/img/day14.jpg "Day 14 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day14.jpg "Day 14 - Snapped a screenshot at 5km")

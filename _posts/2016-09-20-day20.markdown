@@ -18,4 +18,4 @@ I released the tension and straightened my toes. It felt strange to let go. I im
 
 Running is going to be a lifelong habit. 
 
-![alt text]({{ site.baseurl }}/img/day20.jpg "Day 20 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day20.jpg "Day 20 - Snapped a screenshot at 5km")

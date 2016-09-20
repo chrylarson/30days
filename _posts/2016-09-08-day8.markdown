@@ -10,4 +10,4 @@ Day 8
 
 Sunshine and cool weather made for an awesome time running.
 
-![alt text](/img/day8.jpg "Day 8 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day8.jpg "Day 8 - Snapped a screenshot at 5km")

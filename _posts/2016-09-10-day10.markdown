@@ -10,4 +10,4 @@ Day 10
 
 Amazing weather, running with my oldest in the stroller, what a great run!
 
-![alt text](/img/day10.jpg "Day 10 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day10.jpg "Day 10 - Snapped a screenshot at 5km")

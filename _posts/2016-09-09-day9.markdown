@@ -16,4 +16,4 @@ I’ve been preparing for running in sandals for some time. On my relaxed run da
 
 Sandal running was pleasant and I think I will do it again.
 
-![alt text](/img/day9.jpg "Day 9 - Running in Chaco Sandals")
+![alt text]({{site.baseurl}}/img/day9.jpg "Day 9 - Running in Chaco Sandals")

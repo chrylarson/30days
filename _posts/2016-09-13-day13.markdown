@@ -10,4 +10,4 @@ Day 13
 
 First early morning run of my 30 days of running. I timed it so the sun would be rising just as I finished. Great run!
 
-![alt text](/img/day13.jpg "Day 13 - Snapped a screenshot at 5km")
+![alt text]({{site.baseurl}}/img/day13.jpg "Day 13 - Snapped a screenshot at 5km")
