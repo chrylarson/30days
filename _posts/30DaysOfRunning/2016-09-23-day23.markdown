@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Day 23"
+date:   2016-09-23 12:33:00 -0500
+categories: 30days running
+---
+Day 23
+
+# Today’s motivation:
+
+>Your net worth to the world is usually determined by what remains after your bad habits are subtracted from your good ones.
+>
+>
+> -- <cite>Benjamin Franklin</cite>
+
+I'm making a good habit of running. :)
+
+![alt text]({{site.baseurl}}/img/day23.jpg "Day 23 - Snapped a screenshot at 5km")
