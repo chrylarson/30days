@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Day 26"
+date:   2016-09-26 12:38:00 -0500
+categories: 30days running
+---
+Day 26
+
+# Today’s motivation:
+
+Encountered a new challenge today.
+
+Wind.
+
+For 25 days I had been running in amazing weather conditions.
+
+The wind didn’t slow my down though. 
+
+Personal Record Day!
+
+![alt text]({{site.baseurl}}/img/day26.jpg "Day 26 - Snapped a screenshot at 5km")
