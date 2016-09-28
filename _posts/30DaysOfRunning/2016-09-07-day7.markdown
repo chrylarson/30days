@@ -4,8 +4,6 @@ title:  "Day 7"
 date:   2016-09-07 12:25:41 -0500
 categories: 30days running
 ---
-Day 7
-
 # Today’s motivation:
 
 > A real runner is out there for himself, and no one else. If it was about conflict, about proving superiority, you wouldn’t see them alone on the track at 4am, or on the streets in the pouring rain.

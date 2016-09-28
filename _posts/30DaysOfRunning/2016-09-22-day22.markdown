@@ -4,8 +4,6 @@ title:  "Day 22"
 date:   2016-09-22 12:21:20 -0500
 categories: 30days running
 ---
-Day 22
-
 # Today’s motivation:
 
 >The aim of life is to live, and to live means to be aware, joyously, drunkenly, serenely, divinely aware.

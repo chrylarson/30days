@@ -4,8 +4,6 @@ title:  "Day 19"
 date:   2016-09-19 12:23:00 -0500
 categories: 30days running
 ---
-Day 19
-
 # Today’s motivation:
 
 Perfect day for a run. 

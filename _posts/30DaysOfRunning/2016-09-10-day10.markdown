@@ -4,8 +4,6 @@ title:  "Day 10"
 date:   2016-09-10 21:45:00 -0500
 categories: 30days running
 ---
-Day 10
-
 # Today’s motivation:
 
 Amazing weather, running with my oldest in the stroller, what a great run!

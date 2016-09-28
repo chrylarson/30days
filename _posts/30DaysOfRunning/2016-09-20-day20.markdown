@@ -4,8 +4,6 @@ title:  "Day 20"
 date:   2016-09-20 12:19:00 -0500
 categories: 30days running
 ---
-Day 20
-
 # Today’s motivation:
 
 Balance.

@@ -4,8 +4,6 @@ title:  "Day 3"
 date:   2016-09-03 08:44:20 -0500
 categories: 30days running
 ---
-Day 3
-
 # Today’s motivation:
 
 Family. 

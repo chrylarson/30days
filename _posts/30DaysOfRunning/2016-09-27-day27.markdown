@@ -4,8 +4,6 @@ title:  "Day 27"
 date:   2016-09-27 11:48:00 -0500
 categories: 30days running
 ---
-Day 27
-
 # Today’s motivation:
 
 My coworkers are starting to run during lunch break! This is amazing to see other people getting healthier too.

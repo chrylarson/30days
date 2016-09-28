@@ -4,8 +4,6 @@ title:  "Day 26"
 date:   2016-09-26 12:38:00 -0500
 categories: 30days running
 ---
-Day 26
-
 # Today’s motivation:
 
 Encountered a new challenge today.

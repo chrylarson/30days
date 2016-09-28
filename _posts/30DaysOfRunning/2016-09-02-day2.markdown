@@ -4,8 +4,6 @@ title:  "Day 2"
 date:   2016-09-02 08:44:20 -0500
 categories: 30days running
 ---
-Day 2
-
 # Today’s motivation:
 
 Today’s motivation comes from my work team’s quote board. We have a giant list of inspirational quotes that are displayed every time we log into our dashboard. 

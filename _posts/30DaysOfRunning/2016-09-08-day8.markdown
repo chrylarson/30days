@@ -4,8 +4,6 @@ title:  "Day 8"
 date:   2016-09-08 12:06:00 -0500
 categories: 30days running
 ---
-Day 8
-
 # Today’s motivation:
 
 Sunshine and cool weather made for an awesome time running.
