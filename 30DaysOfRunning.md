@@ -1,5 +1,7 @@
 ---
-layout: default
+layout: page
+title: Running
+permalink: /30DaysOfRunning/
 ---
 
 <div class="home">
