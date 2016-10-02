@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Welcome! Let's do this!
+Welcome! 
+
+Improve life one habit at a time.
+
+Let's do this!
